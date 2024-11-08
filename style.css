@@ -1,7 +1,9 @@
 /*adding css to body*/
 .bo{
-  background-image: url(desert.jpg);
+  background-image: url(https://i.pinimg.com/originals/28/65/b5/2865b5dcb2db18cb5150c8d631e6a70e.jpg);
   background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 /*adding css to navbar  */
 .navbar-brand{
@@ -334,9 +336,6 @@ color: rgb(251, 248, 189);
   color: darkgoldenrod;
   background-color: blanchedalmond;
 }
-
-
-
 
 .font h4{
   font-family: "Macondo", cursive;
